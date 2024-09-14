@@ -1,6 +1,8 @@
 # 💫 About Me:
-<br>🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. 💻 Experience: Web3.js, Solidity,
+<br>🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. 💻 Experience: Web3.js, Solidity  I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
+## 🛠️ Technologies & Tools:
+Depends on the project, can adapt quickly
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-virani-4bb478282) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitacode11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anki_eth) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ankita-Virani) 
