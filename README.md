@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. 💻 Experience: Web3.js, Solidity  I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
+🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. 💻 Experience: Web3.js, Solidity  I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
 ## 🛠️ Technologies & Tools:
 Depends on the project, can adapt quickly
