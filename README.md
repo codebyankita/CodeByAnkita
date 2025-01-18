@@ -1,6 +1,12 @@
 # 💫 About Me:
 🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. <br> I always aim for the best code quality and smooth coding. <br> I'm excited about using new technologies in my projects. Learning new things is important to me.<br> I also love traveling, exploring new music, and driving to explore different places. <br> 💻 Experience: Web3.js, Solidity, javascript, nextjs, heroku, postman, nodejs, mongodb, aws, react.js, next.js
 
+# Websites:
+https://www.wavebot.app/
+https://promindholdings.com/
+https://airein.io/
+https://creso-app-nextjs-main-version.vercel.app/
+https://ikr-crwn-live.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-virani-4bb478282) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitacode11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anki_eth) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ankita-Virani) 
