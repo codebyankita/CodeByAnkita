@@ -2,13 +2,13 @@
 🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. <br> I always aim for the best code quality and smooth coding. <br> I'm excited about using new technologies in my projects. Learning new things is important to me.<br> I also love traveling, exploring new music, and driving to explore different places. <br> 💻 Experience: Web3.js, Solidity, javascript, nextjs, heroku, postman, nodejs, mongodb, aws, react.js, next.js
 
 # Websites:
+https://www.tanthetaa.com/
+
 https://www.wavebot.app/
 
 https://promindholdings.com/
 
 https://airein.io/
-
-https://creso-app-nextjs-main-version.vercel.app/
 
 https://ikr-crwn-live.netlify.app/
 
