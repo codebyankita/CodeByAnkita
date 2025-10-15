@@ -11,7 +11,6 @@ These contracts range from **basic utilities** to **advanced DeFi and governance
 Each contract is thoroughly documented with detailed READMEs.
 
 
-
 ## 🌐 Web Projects
 
 Here are some of the projects and web platforms I’ve worked on:
@@ -23,7 +22,7 @@ Here are some of the projects and web platforms I’ve worked on:
 - 🔒 [Qsafe Wallet](https://www.qsafewallet.com/)
 - 📖 [Quranium](https://www.quranium.org/)
 - 💰 [Cresowallet](https://oxablock.com/)
-- 🎨 [IKR CRWN Live](https://ikr-crwn-live.netlify.app/)
+- 🎨 [Oxablock](https://oxablock.com/)
 
 
 
