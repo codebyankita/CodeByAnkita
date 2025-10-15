@@ -10,7 +10,7 @@ I actively contribute to the **Zoriumorg/smart-contracts-library-evm**, an open-
 These contracts range from **basic utilities** to **advanced DeFi and governance** mechanisms, supporting developers in building decentralized applications (dApps).  
 Each contract is thoroughly documented with detailed READMEs.
 
----
+
 
 ## 🌐 Web Projects
 
@@ -25,14 +25,14 @@ Here are some of the projects and web platforms I’ve worked on:
 - 💰 [Cresowallet](https://oxablock.com/)
 - 🎨 [IKR CRWN Live](https://ikr-crwn-live.netlify.app/)
 
----
+
 
 ## 🎥 YouTube Channel
 🎬 **[CodeByAnkita](https://www.youtube.com/@CodeByAnkita)**  
 I create tutorials on **Solidity**, **smart contracts**, and **blockchain development** — sharing practical insights for Web3 learners and developers.  
 📘 Check out my open-source course: [Solidity Smart Contract Course](https://github.com/codebyankita/solidity-smart-contract-course)
 
----
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-virani-4bb478282) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitacode11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anki_eth) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ankita-Virani) 
