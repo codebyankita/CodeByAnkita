@@ -1,16 +1,38 @@
 # 💫 About Me:
-🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. <br> I always aim for the best code quality and smooth coding. <br> I'm excited about using new technologies in my projects. Learning new things is important to me.<br> I also love traveling, exploring new music, and driving to explore different places. <br> 💻 Experience: Web3.js, Solidity, javascript, nextjs, heroku, postman, nodejs, mongodb, aws, react.js, next.js
+🌐 Web3.js & Blockchain Developer & Learner🚀 🔗 Passionate about decentralized technologies and blockchain innovation. <br> I always aim for the best code quality and smooth coding. <br> I'm excited about using new technologies in my projects. Learning new things is important to me.<br> I also love traveling, exploring new music, and driving to explore different places. <br>
 
-# Websites:
-https://www.tanthetaa.com/
+💻 Experience: Web3.js, Solidity, javascript, nextjs, heroku, postman, nodejs, mongodb, aws, react.js, next.js
 
-https://www.wavebot.app/
+## 🧩 Open-Source Contributions
 
-https://promindholdings.com/
+### [Zoriumorg Smart Contracts Library](https://github.com/Zoriumorg/smart-contracts-library-evm)
+I actively contribute to the **Zoriumorg/smart-contracts-library-evm**, an open-source repository featuring a rich collection of Solidity smart contracts for the Ethereum Virtual Machine (EVM).  
+These contracts range from **basic utilities** to **advanced DeFi and governance** mechanisms, supporting developers in building decentralized applications (dApps).  
+Each contract is thoroughly documented with detailed READMEs.
 
-https://airein.io/
+---
 
-https://ikr-crwn-live.netlify.app/
+## 🌐 Web Projects
+
+Here are some of the projects and web platforms I’ve worked on:
+
+- 🌍 [TanThetaa](https://www.tanthetaa.com/)
+- 🌊 [WaveBot](https://www.wavebot.app/)
+- 💼 [ProMind Holdings](https://promindholdings.com/)
+- 🤖 [Airein](https://airein.io/)
+- 🔒 [Qsafe Wallet](https://www.qsafewallet.com/)
+- 📖 [Quranium](https://www.quranium.org/)
+- 💰 [Cresowallet](https://oxablock.com/)
+- 🎨 [IKR CRWN Live](https://ikr-crwn-live.netlify.app/)
+
+---
+
+## 🎥 YouTube Channel
+🎬 **[CodeByAnkita](https://www.youtube.com/@CodeByAnkita)**  
+I create tutorials on **Solidity**, **smart contracts**, and **blockchain development** — sharing practical insights for Web3 learners and developers.  
+📘 Check out my open-source course: [Solidity Smart Contract Course](https://github.com/codebyankita/solidity-smart-contract-course)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-virani-4bb478282) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitacode11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anki_eth) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ankita-Virani) 
