@@ -21,7 +21,7 @@ Here are some of the projects and web platforms I’ve worked on:
 - 🤖 [Airein](https://airein.io/)
 - 🔒 [Qsafe Wallet](https://www.qsafewallet.com/)
 - 📖 [Quranium](https://www.quranium.org/)
-- 💰 [Cresowallet](https://oxablock.com/)
+- 💰 [Cresowallet](https://x.com/cresowallet)
 - 🎨 [Oxablock](https://oxablock.com/)
 
 
